@@ -1,6 +1,6 @@
 package ge.tbc.tbcitacademy.tests.databaseTests;
 
-import ge.tbc.tbcitacademy.database.steps.DatabaseSteps;
+import ge.tbc.tbcitacademy.registrationDatabase.steps.DatabaseSteps;
 import ge.tbc.tbcitacademy.pages.TechcanvasPage;
 import org.testng.annotations.Test;
 
