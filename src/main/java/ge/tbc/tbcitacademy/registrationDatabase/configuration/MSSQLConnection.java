@@ -1,7 +1,6 @@
-package ge.tbc.tbcitacademy.database.MSSQL;
+package ge.tbc.tbcitacademy.registrationDatabase.configuration;
 
 import com.microsoft.sqlserver.jdbc.SQLServerDriver;
-import ge.tbc.tbcitacademy.database.configuration.DBConfiguration;
 
 import java.sql.Connection;
 import java.sql.DriverManager;

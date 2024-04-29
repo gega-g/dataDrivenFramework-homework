@@ -1,4 +1,4 @@
-package ge.tbc.tbcitacademy.database.configuration;
+package ge.tbc.tbcitacademy.registrationDatabase.configuration;
 
 import java.io.IOException;
 import java.io.InputStream;
