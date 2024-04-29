@@ -1,6 +1,4 @@
-package ge.tbc.tbcitacademy.registrationDatabase.steps;
-
-import ge.tbc.tbcitacademy.util.UserRegistration;
+package ge.tbc.tbcitacademy.util;
 
 import java.sql.Connection;
 import java.sql.PreparedStatement;

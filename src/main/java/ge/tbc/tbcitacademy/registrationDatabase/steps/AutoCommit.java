@@ -1,6 +1,7 @@
 package ge.tbc.tbcitacademy.registrationDatabase.steps;
 
 import ge.tbc.tbcitacademy.registrationDatabase.configuration.MSSQLConnection;
+import ge.tbc.tbcitacademy.util.InsertOneInRegistration;
 import ge.tbc.tbcitacademy.util.UserRegistration;
 
 import java.sql.Connection;

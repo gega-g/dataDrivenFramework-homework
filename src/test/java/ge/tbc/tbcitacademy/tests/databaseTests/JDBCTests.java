@@ -10,7 +10,7 @@ public class JDBCTests {
 
     @Test
     public void newUsersInRegistration(){
-        InsertFourInRegistration test = new InsertFourInRegistration();
+        InsertPhoneNumbers.InsertFourInRegistration test = new InsertPhoneNumbers.InsertFourInRegistration();
         test.insert();
     }
 
